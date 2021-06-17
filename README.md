@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on [Retro Simon Game.](https://github.com/guptasajal411/retro-simon-game)
+- 🤝 I’m currently working on **[Retro Simon Game.](https://github.com/guptasajal411/retro-simon-game)**
 
 - 🌱 I’m currently learning **Node.js and Express.**
 
