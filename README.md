@@ -10,7 +10,7 @@
 
 - 👨‍💻 Check out my projects **[here!](https://github.com/guptasajal411?tab=repositories)**
 
-- 📝 I regularly write articles and share hacks about development **[here!](https://www.instagram.com/ogheavycoder/?hl=en)**
+- 📝 I regularly write articles and share hacks about development **[here!](https://www.instagram.com/ogheavycoder/)**
 
 - 💬 Ask me about **JavaScript, jQuery and Bootstrap**
 
