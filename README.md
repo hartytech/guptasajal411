@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on **[Retro Simon Game.](https://github.com/guptasajal411/retro-simon-game)**
+- 🤝 I’m currently working on **[Retro Simon Game](https://github.com/guptasajal411/retro-simon-game) and [Web Crop Recommendation.](https://github.com/guptasajal411/web-crop-recommendation)**
 
 - 🌱 I’m currently learning **Node.js and Express.**
 
@@ -12,9 +12,9 @@
 
 - 📝 I regularly write articles and share hacks about development **[here!](https://www.instagram.com/ogheavycoder/)**
 
-- 💬 Ask me about **JavaScript, jQuery and Bootstrap**
+- 💬 Ask me about **JavaScript, jQuery and Bootstrap.**
 
-- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajalgupta20/), [Instagram](https://www.instagram.com/sajal.ilsg/)**
+- 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajalgupta20/), [Instagram.](https://www.instagram.com/sajal.ilsg/)**
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasajal411&label=Profile%20views&color=0e75b6&style=flat" alt="guptasajal411" /> </p>
 <br>
