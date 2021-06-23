@@ -4,7 +4,7 @@
 
 - 🤝 I’m currently working on **[Retro Simon Game](https://github.com/guptasajal411/retro-simon-game) and [Web Crop Recommendation.](https://github.com/guptasajal411/web-crop-recommendation)**
 
-- 🌱 I’m currently learning **Node.js and Express.**
+- 🌱 I’m currently learning **Node.js and Express.js**
 
 - 👯 I’m looking to collaborate on **frontend development projects!**
 
