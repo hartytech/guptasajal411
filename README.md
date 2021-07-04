@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on **[Retro Simon Game](https://github.com/guptasajal411/retro-simon-game) and [Web Crop Recommendation.](https://github.com/guptasajal411/web-crop-recommendation)**
+- 🤝 I’m currently working on **[JavaScript Calculator](https://github.com/guptasajal411/javascript-calculator)** and novice backend projects.
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
