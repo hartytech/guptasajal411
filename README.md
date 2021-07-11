@@ -32,12 +32,12 @@
 <p align = "center">
      <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=guptasajal411&theme=tokyonight" align = "center">
 </p>
-
-|||
-| :---------------: | :---------------: |
-| <img src = "https://github-readme-stats.vercel.app/api?username=guptasajal411&theme=tokyonight&show_icons=true&hide=stars" align = "center"> | <img src = "https://github-readme-streak-stats.herokuapp.com?user=guptasajal411&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center"> |
-
-
+<p align = "center">
+   <img src = "https://github-readme-stats.vercel.app/api?username=guptasajal411&theme=tokyonight&show_icons=true&hide=stars" align = "center">
+</p>
+<p align = "center">
+     <img src = "https://github-readme-streak-stats.herokuapp.com?user=guptasajal411&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6" align = "center">
+ </p>
 <p align = "center">
   <img src = "https://activity-graph.herokuapp.com/graph?username=guptasajal411&theme=react-dark" align = "center">
 </p>
