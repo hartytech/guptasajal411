@@ -2,7 +2,7 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on **[Backend Express Calculator](https://github.com/guptasajal411/express-calculator)** and the project for my internship.
+- 🤝 I’m currently working on **[ASCII Manipulation](https://github.com/guptasajal411/ascii-manipulation)** and the project for my internship.
 
 - 🌱 I’m currently learning **Node.js and Express.js**
 
