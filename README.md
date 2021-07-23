@@ -15,9 +15,8 @@
 - 💬 Ask me about **JavaScript, jQuery and Node.js.**
 
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajalgupta20/), [Instagram.](https://www.instagram.com/sajal.ilsg/)**
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasajal411&label=Profile%20views&color=0e75b6&style=flat" alt="guptasajal411" /> </p>
-<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guptasajal411&label=Profile%20views&color=0e75b6&style=flat-square" alt="guptasajal411" width="150px"> </p>
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
