@@ -2,17 +2,17 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on **[ChatBud - Instant Chat Application](https://github.com/guptasajal411/instant-chat-app)** and the project for my internship.
+- 🤝 I’m currently working on **[Blog App with EJS](https://github.com/guptasajal411/blog-app-EJS)** and studying for midsems 😝
 
 - 🌱 I’m currently learning **[EJS](https://ejs.co/) and Node.js**
 
-- 👯 I’m looking to collaborate on **frontend development projects!**
+- 👯 I’m looking to collaborate on **full stack web development projects!**
 
 - 👨‍💻 Check out my projects **[here!](https://github.com/guptasajal411?tab=repositories)**
 
 - 📝 I regularly write articles and share hacks about development **[here!](https://www.instagram.com/ogheavycoder/)**
 
-- 💬 Ask me about **JavaScript, jQuery and Node.js.**
+- 💬 Ask me about **JavaScript, Node.js and EJS templating.**
 
 - 📫 Reach me at **[LinkedIn](https://www.linkedin.com/in/sajalgupta20/), [Instagram.](https://www.instagram.com/sajal.ilsg/)**
 
