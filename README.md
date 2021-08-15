@@ -2,9 +2,9 @@
 <h3 align="center">I am a Computer Science student, passionate towards web development and open-source.</h3>
 
 
-- 🤝 I’m currently working on **[Blog App with EJS](https://github.com/guptasajal411/blog-app-EJS)** and studying for midsems 😝
+- 🤝 I’m currently brainstorming for project ideas.
 
-- 🌱 I’m currently learning **[EJS](https://ejs.co/) and Node.js**
+- 🌱 I’m currently learning **MongoDB and Mongoosee**
 
 - 👯 I’m looking to collaborate on **full stack web development projects!**
 
